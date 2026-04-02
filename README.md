@@ -34,8 +34,6 @@ minikube image ls | grep techip-tasks
 
 ![image load](docs/screenshots/image%20load%20%2B%20ls.png)
 
-Использован вариант: **локальная загрузка образа в minikube**.
-
 ## 3. Манифесты
 
 Файлы:
